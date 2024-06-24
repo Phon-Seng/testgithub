@@ -1,0 +1,4 @@
+Velocity=int(input())
+time=int(input())
+result=Velocity/time
+print(result,"km/h")
